@@ -1,5 +1,5 @@
 - Overview
-  - [OpenTicket Tab](helpdesk/opentickets.md)
-  - [Customer Tab](helpdesk/customer.md)
-  - [Search Tab](helpdesk/search.md)
-  - [Details Tab](helpdesk/details.md)
+  - [OpenTicket Tab](./helpdesk/OpenTickets.md)
+  - [Customer Tab](./helpdesk/customer.md)
+  - [Search Tab](./helpdesk/search.md)
+  - [Details Tab](./helpdesk/details.md)
