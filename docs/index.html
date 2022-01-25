@@ -27,7 +27,8 @@
   <div id="app">We are building somthing special for you ...</div>
   <script>
     window.$docsify = {
-      // search: 'auto',
+      search: 'auto',
+      loadSidebar: '_sidebar.md',
 
       search : [
         
@@ -74,20 +75,20 @@
       maxLevel: 4,
       subMaxLevel: 3,
       name: 'CBA Agents Help Manual',
-      // search: {
-      //   noData: {
-      //     '/': 'No results!'
-      //   },
-      //   paths: 'auto',
-      //   placeholder: {
-      //     '/': 'Search'
-      //   }
-      // },
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      }
       
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
