@@ -1,5 +1,5 @@
 # Details Tab
-![details_icon](./../images/detailsicon.png)
+![details_icon](./images/detailsicon.png)
 
 
 - Shows Date of Birth,PAN,Card Tier,Card Status,Point Balance,PCH,SCH of a customer.

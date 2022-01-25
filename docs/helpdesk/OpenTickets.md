@@ -1,5 +1,5 @@
 # Open Ticket Tab
-![open_ticktet](./../images/openticketicon.png)
+![open_ticktet](./images/openticketicon.png)
 
 
 #### It is used to create a new ticket/view any assigned open tickets for the caller.

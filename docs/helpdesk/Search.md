@@ -1,5 +1,5 @@
 # Search Tab
-![search](./../images/searchicon.png)
+![search](./images/searchicon.png)
 <!-- <font size="4"> -->
 
 <!-- # Overview
